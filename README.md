@@ -6,4 +6,4 @@
 
 'paper3.ipynb' reproduces Figure 7, panels A and B of paper 3.
 
-For all notebooks, run all cells to get the full reproduction.
+For all notebooks, run all cells in a Kaggle notebook with GPU turned on to get the full reproduction.
